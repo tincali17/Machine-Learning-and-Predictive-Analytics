@@ -2,7 +2,7 @@ Milestone 1: Feature Engineering & Predictive Modeling via Python
 
 Submitted: February 10, 2025
 
-This project focused on preparing a unified and analysis-ready dataset for FinMark Corporation, a simulated SME case. We combined Transactions, Products, and Customers datasets using Pandas, then conducted robust feature engineering and cleaning procedures. Tasks included:
+This project focused on preparing a unified and analysis-ready dataset for FinMark Corporation, a simulated case. We combined Transactions, Products, and Customers datasets using Pandas, then conducted robust feature engineering and cleaning procedures. Tasks included:
 - Handling mixed date formats and missing values
 - Merging datasets by keys (Product_ID, Company_ID)
 - Removing currency symbols and standardizing column types
