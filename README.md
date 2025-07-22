@@ -1,6 +1,3 @@
-BS in Information Technology major in Data Analytics – School Year 2024–2025, Term 2
-Mapúa Malayan Digital College
-
 Milestone 1: Feature Engineering & Predictive Modeling via Python
 
 Submitted: February 10, 2025
